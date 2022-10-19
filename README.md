@@ -179,7 +179,7 @@ This analysis was mainly done considering the latest information from the a conc
 
 ### Confirmed Cases (%) and Population Vaccinated (%)
 
-![2020 & 2021 :: Confirmed Cases (%) and Population Vaccinated (%)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2020-2021%20-%20Deaths%20per%20Confirmed%20Cases%20Ratio%20and%20Population%20Vaccinated%20%28Percentage%29.png)
+![2020 & 2021 :: Confirmed Cases (%) and Population Vaccinated (%)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2020-2021%20-%20Confirmed%20Cases%20Ratio%20and%20Population%20Vaccinated%20(Percentage).png)
 
 * Vaccination started only in **2021**.
 * More than **63%** of the population vaccinated by the end of 2021.
