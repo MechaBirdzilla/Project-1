@@ -207,3 +207,15 @@ These indicators are quite complex, and a Government Response Index is calculate
 The next graphs will bring the visualisation of the impact of the higher Government Response Index to drive to a lower rate of Deaths per Confirmed Cases.
 
 **<<< IMAGE 8 >>>**
+
+
+## Conclusion
+
+* States with higher population present higher absolute figures for Confirmed Cases and Deaths.​
+* As of 31/12/2021:​
+	* Mississipi presented the highest rate of​ Deaths Per Capita (0.35045%).​
+	* North Dakota presented the highest rate of​ Confirmed Cases Per Capita (22.92%).​
+* The Vaccination impacted positively in the decrease of the rate of deaths per confirmed cases. In 2021:​
+	* The highest Deaths per Confirmed Cases​ Rate: 1.80 %.​
+	* The lowest Deaths per Confirmed Cases​ Rate: 1.50 %.​
+* Maximum government response index is from April 2020 to July 2020 which is the period of the first lockdown. significant decrease in death rate.
