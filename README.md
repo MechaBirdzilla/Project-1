@@ -2,7 +2,8 @@
 
 View a slideshow presentation of this readme at 
 
-> [https://docs.google.com/presentation/d/1w5KIalZp_sjbLWW5vmZ8nmFyrG-AVmn5aj4jmcooTOQ/edit?usp=sharing](https://docs.google.com/presentation/d/1w5KIalZp_sjbLWW5vmZ8nmFyrG-AVmn5aj4jmcooTOQ/edit?usp=sharing)
+[Presentation Deck](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/presentation/Covid-19%20-%20USA%20Analysis.pdf)
+
 
 Some of the technologies used in this project:
 * Python
@@ -27,7 +28,7 @@ COVID-19 is vastly documented in several Universities and Research Groups, and t
 
 The picture below shows the status of the figures worldwide as of 18th October 2022.
 
-**<<< ADD THE IMAGE OF THE MAP >>>**
+![Covid-19 - Worldwide figures as of 18/10/2022](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/Covid-19%20World%20Map.jpg)
 
 ## Databases
 
@@ -110,7 +111,7 @@ This analysis was mainly done considering the latest information from 2021 datab
 
 "*Deaths per Capita (%)*" is calculated based on the number of "*Confirmed Deaths*" divided by the "*Population*" of each State. Finally, this rate is multiplied by 100 to get the percentage rate.
 
-**<<< IMAGE 1 >>>**
+![Deaths per Capita (%) / State](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2021%20-%20Deaths%20Per%20Capita.png)
 
 The following can be analysed from this graph and data extracted:
 * 31 States above the **National Average** (**0.24%**) for Deaths per Capita.
