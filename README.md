@@ -123,7 +123,7 @@ The following can be analysed from this graph and data extracted:
 
 "*Confirmed Cases per Capita (%)*" is calculated based on the number of "*Confirmed Cases*" divided by the "*Population*" of each State. Finally, this rate is multiplied by 100 to get the percentage rate.
 
-**<<< IMAGE 2 >>>**
+![Confirmed Cases per Capita (%) / State](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2021%20-%20Confirmed%20Cases%20Per%20Capita.png)
 
 The following can be analysed from this graph and data extracted:
 
@@ -136,7 +136,7 @@ The following can be analysed from this graph and data extracted:
 
 The following graph brings the absolute data as of 31/12/2022:
 
-**<<< IMAGE 3 >>>**
+![Confirmed Cases and Deaths / State](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2021%20-%20Confirmed%20Cases%20and%20Deaths%20per%20State.png)
 
 * National average:
 	* Confirmed Cases: 54,512,513
@@ -158,14 +158,14 @@ The following graph brings the absolute data as of 31/12/2022:
 
 "*Deaths per Confirmed Cases (%)*" is calculated based on the number of "*Confirmed Deaths*" divided by the "*Confirmed Cases*" of each State. Finally, this rate is multiplied by 100 to get the percentage rate.
 
-**<<< IMAGE 4 >>>**
+![Deaths per Confirmed Cases (%) / State](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2021%20-%20Deaths%20Per%20Confirmed%20Cases.png)
 
 * **National average** for Deaths per Confirmed Cases Rate as of 31-Dec-2021: **1.50%**
 * 5 States presenting Deaths per Confirmed Cases Rate above 1.80%: Pennsylvania, Louisiana, Alabama, New Jersey, Mississippi.
 * **Mississipi** presented the highest Deaths per Confirmed Cases Rate (1.92%).
 * **Utah** presented the lowest Deaths per Confirmed Cases Rate (0.59%).
 
-**<<< IMAGE 5 >>>**
+![Deaths per Confirmed Cases Ratio (%)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2021%20-%20Deaths%20per%20Confirmed%20Cases%20Ratio.png)
 
 * Over 365 days in 2021, the **National average** for Deaths per Confirmed Cases Ratio fluctuated from **1,64%** on 01-01-2021 to **1,50%** on 31-12-2021.
 * The **highest** Deaths per Confirmed Cases Rate identified in **18-03-2021**: 1.80 %.
@@ -179,7 +179,7 @@ This analysis was mainly done considering the latest information from the a conc
 
 ### Confirmed Cases (%) and Population Vaccinated (%)
 
-**<<< IMAGE 6 >>>**
+![2020 & 2021 :: Confirmed Cases (%) and Population Vaccinated (%)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2020-2021%20-%20Deaths%20per%20Confirmed%20Cases%20Ratio%20and%20Population%20Vaccinated%20%28Percentage%29.png)
 
 * Vaccination started only in **2021**.
 * More than **63%** of the population vaccinated by the end of 2021.
@@ -190,7 +190,7 @@ This analysis was mainly done considering the latest information from the a conc
 
 ### Deaths per Confirmed Cases Ratio (%) and Population Vaccinated (%)
 
-**<<< IMAGE 7 >>>**
+![2020 & 2021 :: Deaths per Confirmed Cases Ratio and Population Vaccinated (Percentage)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2020-2021%20-%20Deaths%20per%20Confirmed%20Cases%20Ratio%20and%20Population%20Vaccinated%20%28Percentage%29.png)
 
 * Vaccination started only in **2021**.
 * After the start of the Vaccination program, the rate of deaths per confirmed case became stable (**fluctuation up to 0.3%**) and flat.
@@ -207,7 +207,7 @@ These indicators are quite complex, and a Government Response Index is calculate
 
 The next graphs will bring the visualisation of the impact of the higher Government Response Index to drive to a lower rate of Deaths per Confirmed Cases.
 
-**<<< IMAGE 8 >>>**
+![2020 & 2021 :: Deaths per Cases Ratio (%) and Government Response Index (%)](https://github.com/MechaBirdzilla/Project-1/blob/cheila-test-branch/images/2020-2021%20-%20Deaths%20per%20Cases%20Ratio%20and%20Government%20Response%20Index%20%28Percentage%29.png)
 
 
 ## Conclusion
